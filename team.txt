@@ -6,13 +6,9 @@ MNR 131
 Sevilya, pilot
 Kalbinur Engineer 
 Masha pilot
-Hello! My name is Nicole. I am fifteen years old, almost sixteen. I want to be a manager. 
-Hello! My name is Dayana. I am fifteen years old, almost sixteen. I want to be a manager. I love studying.
+Sofia Ingeneer 
+
 Li Yaroslav - The Spaceship's Welder
-
-
-
-MRR
 Sofy — the Dream Architect
 Hello, I am Arina, I am a superhero!
 Khadija - the Harmony Maker
@@ -59,3 +55,9 @@ Acc 131
 
 
 Acc 231
+
+MNR-131
+Hello! My name is Nicole. I am fifteen years old, almost sixteen. I want to be a manager. 
+
+MNR-131
+Hello! My name is Dayana. I am fifteen years old, almost sixteen. I want to be a manager. I love studying.
